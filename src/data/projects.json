@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "Neweb.ai Landing Page",
+    "description": "A modern and responsive landing page built for Neweb.ai, designed with smooth animations, interactive UI, and optimized for performance.",
+    "image": "https://neweb.ai/_next/static/media/homepage.6e2c1a2f.png",
+    "technologies": ["React.js", "JavaScript", "CSS3", "Styled Components"],
+    "github": "https://github.com/yamini-choudhary/Probation_Task_NewebAI",
+    "demo": "https://probation-task-neweb-ai.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "title": "MakeMyTrip Clone",
+    "description": "A travel booking platform clone built with React.js, Material UI, and Context API. Includes booking functionality for flights, trains, hotels, search/filter, and authentication.",
+    "image": "https://github.com/yamini-choudhary/MakeMyTrip-Clone---React-Project-1---uz8ej8f56vet/blob/master/Make_My_Trip.png?raw=true",
+    "technologies": [
+      "React.js",
+      "Material UI",
+      "Axios",
+      "Context API",
+      "React Router DOM"
+    ],
+    "github": "https://github.com/yamini-choudhary/MakeMyTrip-Clone---React-Project-1---uz8ej8f56vet",
+    "demo": "https://make-my-trip-clone-react-project-1-uz8ej8f56vet.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Course Selling E-Commerce App",
+    "description": "A full-stack MERN course selling platform with authentication, Stripe payment integration, admin dashboard, and cloud storage for media.",
+    "image": "https://github.com/yamini-choudhary/course_app/blob/main/course_app.png?raw=true",
+    "technologies": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Stripe",
+      "Tailwind CSS"
+    ],
+    "github": "https://github.com/yamini-choudhary/course_app",
+    "demo": "https://course-app-inky.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "MovieDB Project",
+    "description": "A React application that fetches movies from TMDb API with features like search, pagination, top-rated, popular, upcoming movies, and single movie details page.",
+    "image": "https://github.com/yamini-choudhary/moviedb_project_nimap/blob/master/movieDb.png?raw=true",
+    "technologies": [
+      "React.js",
+      "Axios",
+      "TMDb API",
+      "React Router DOM",
+      "CSS3"
+    ],
+    "github": "https://github.com/yamini-choudhary/moviedb_project_nimap",
+    "demo": "https://moviedb-project-nimap.vercel.app/",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Pokémon App",
+    "description": "A fun React app that fetches Pokémon data using the PokéAPI with features like search, Pokémon details, and responsive design.",
+    "image": "https://github.com/yamini-choudhary/Pokemon-App-React/blob/main/pokemon_app.png?raw=true",
+    "technologies": ["React.js", "Axios", "PokéAPI", "CSS3"],
+    "github": "https://github.com/yamini-choudhary/Pokemon-App-React",
+    "demo": "https://pokemon-app-react-eight.vercel.app/",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "YouTube Clone",
+    "description": "A YouTube-like application built with React.js where users can browse, search, and play videos fetched via APIs.",
+    "image": "https://github.com/yamini-choudhary/youtube_clone/blob/main/youtube_clone.png?raw=true",
+    "technologies": ["React.js", "API Integration", "CSS3"],
+    "github": "https://github.com/yamini-choudhary/youtube_clone",
+    "demo": "https://youtube-clone-chi-gilt.vercel.app",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Task Manager App",
+    "description": "A JavaScript-based task manager application with CRUD functionality, allowing users to add, edit, and delete tasks.",
+    "image": "https://github.com/yamini-choudhary/Task-Manager-App---Javascript-Project---xxvk3p6eompw/blob/master/task_manager_app.png?raw=true",
+    "technologies": ["JavaScript", "HTML5", "CSS3"],
+    "github": "https://github.com/yamini-choudhary/Task-Manager-App---Javascript-Project---xxvk3p6eompw",
+    "demo": "https://yamini-choudhary.github.io/Task-Manager-App---Javascript-Project---xxvk3p6eompw/",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Simplotel HTML-CSS Assignment",
+    "description": "A responsive web page built with pure HTML5 and CSS3 as part of a frontend assignment. Focused on layout, typography, and responsive design without using frameworks.",
+    "image": "https://github.com/yamini-choudhary/Simplotel-Html-Css-Assignment/blob/master/simplotel.png?raw=true",
+    "technologies": ["HTML5", "CSS3"],
+    "github": "https://github.com/yamini-choudhary/Simplotel-Html-Css-Assignment",
+    "demo": "https://yamini-choudhary.github.io/Simplotel-Html-Css-Assignment/",
+    "featured": false
+  }
+]
