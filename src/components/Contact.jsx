@@ -8,7 +8,6 @@ import {
   MapPin,
   Github,
   Linkedin,
-  
   CheckCircle,
   AlertCircle,
 } from "lucide-react";
@@ -75,7 +74,6 @@ const Contact = () => {
       href: "https://www.linkedin.com/in/yaminich03/",
       color: "hover:text-blue-600",
     },
-   
   ];
 
   return (

@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import {
@@ -31,7 +30,7 @@ const Home = () => {
                 className="flex items-center space-x-2 font-medium text-blue-600 dark:text-blue-400"
               >
                 <MapPin className="w-4 h-4" />
-                <span>Pune, India</span>
+                <span>Open to Relocate</span>
               </motion.div>
 
               <motion.h1
