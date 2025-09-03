@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Neweb.ai Landing Page",
     "description": "A modern and responsive landing page built for Neweb.ai, designed with smooth animations, interactive UI, and optimized for performance.",
-    "image": "https://neweb.ai/_next/static/media/homepage.6e2c1a2f.png",
+    "image": "https://github.com/yamini-choudhary/Probation_Task_NewebAI/blob/main/neweb.ai.png?raw=true",
     "technologies": ["React.js", "JavaScript", "CSS3", "Styled Components"],
     "github": "https://github.com/yamini-choudhary/Probation_Task_NewebAI",
     "demo": "https://probation-task-neweb-ai.vercel.app/",
