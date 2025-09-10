@@ -4,7 +4,13 @@
     "title": "Neweb.ai Landing Page",
     "description": "A modern and responsive landing page built for Neweb.ai, designed with smooth animations, interactive UI, and optimized for performance.",
     "image": "https://github.com/yamini-choudhary/Probation_Task_NewebAI/blob/main/neweb.ai.png?raw=true",
-    "technologies": ["React.js", "JavaScript", "CSS3", "Styled Components"],
+    "technologies": [
+      "React.js",
+      "JavaScript",
+      "CSS3",
+      "Tailwind CSS",
+      "Framer Motion"
+    ],
     "github": "https://github.com/yamini-choudhary/Probation_Task_NewebAI",
     "demo": "https://probation-task-neweb-ai.vercel.app/",
     "featured": false
@@ -19,7 +25,9 @@
       "Material UI",
       "Axios",
       "Context API",
-      "React Router DOM"
+      "React Router DOM",
+      "CSS3",
+      "REST API"
     ],
     "github": "https://github.com/yamini-choudhary/MakeMyTrip-Clone---React-Project-1---uz8ej8f56vet",
     "demo": "https://make-my-trip-clone-react-project-1-uz8ej8f56vet.vercel.app/",
@@ -36,7 +44,9 @@
       "Express.js",
       "MongoDB",
       "Stripe",
-      "Tailwind CSS"
+      "Tailwind CSS",
+      "REST API",
+      "Context API"
     ],
     "github": "https://github.com/yamini-choudhary/course_app",
     "demo": "https://course-app-inky.vercel.app/",
